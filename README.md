@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Data Scientist who is passionate about making use of data to its utmost potential by employing various techniques and strategies. Some technologies I enjoy working on are Python, Pyspark, MySql and Tableau. 🌱 I’m currently updating myself on R-shiny to create interactive dashboards. I recently created an Interactive Map/POC for US-Ignite that lets small-businesses in Portland, Oregon identify the best locations for their industry based on socio-economic factors, pedestrian and vehicular count information. 
+I am a Data Scientist who is passionate about making use of data to its utmost potential by employing various techniques and strategies. Some technologies I enjoy working on are Python, Pyspark, MySql and Tableau. 🌱 I’m always updating myself on topics to make sure I've always got the foundation down. I recently created an Interactive Map/POC for US-Ignite that lets small-businesses in Portland, Oregon identify the best locations for their industry based on socio-economic factors, pedestrian and vehicular count information. 
 
 📫 How to reach me: rsn293@nyu.edu, https://www.linkedin.com/in/ram-sowmya-narayanan/
 
