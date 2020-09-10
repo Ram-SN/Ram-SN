@@ -31,6 +31,7 @@ Spring 2020
 
 Summer 2020
 1. Smart Monitor for Accelerating Regional Transformation (SMART)
+2. Analyzing New York City Traffic
 
 📫 How to reach me: rsn293@nyu.edu, https://www.linkedin.com/in/ram-sowmya-narayanan/
 
